@@ -6,25 +6,22 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>CSS Program/CSS Selectors</title>
     <style>
-        h1 {
-            color: green
-        }
-
-        div {
-            background-color: aquamarine;
+        span{
+            background-color: aqua;
         }
     </style>
 </head>
 
 <body>
-    <div>
-        <h1>My first heading</h1>
-        <p>My Paragraph</p>
-    </div>
+    <span>This is a span</span>
+    <span>This is a second</span>
+    <p>This is a paragraph</p>
+
 </body>
 
 </html>
-<!-- For Explanation follow my twitter account or Instagram and message me,their with topic i help you 
+<!-- For Explanation follow my twitter account or Instagram and message me
+their with topic i help you 
 instanly:  
 X (Twitter) ID Name:Nep_Code Matrix02 @Ghanashyam072
 Instagram ID Name: Nepcode,samrajbudhathoki072 -->
