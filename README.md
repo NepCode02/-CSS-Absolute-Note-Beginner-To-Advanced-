@@ -28,3 +28,4 @@ implement effective styling strategies, solve real-world design challenges, and 
 participants will be prepared to apply CSS professionally, improving both the functionality and aesthetics of web projects.
 And that's it 
 Much Love :d
+©️Nep_Code02 and Nep_Code Team
