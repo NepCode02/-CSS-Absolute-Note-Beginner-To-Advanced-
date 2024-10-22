@@ -15,6 +15,8 @@
 <body>
     <div class="container">
     </div>
+<!-- Or except you can also write <div id="first"style="background-color:greenyellow;"></div> 
+     but this one is not a recommended..=-->
 </body>
 
 </html>
