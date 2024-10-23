@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body {
+            background-color: aqua;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+
+    </div>
+</body>
+
+</html>
+<!--Explanation....
+body is the selector, which targets the entire body of the webpage.
+Inside the curly braces { }, the property and value pair is specified.
+background-color is the property, which defines the background color of the selected element (in this case, the entire page).
+aqua is the value assigned to the background-color property, meaning the background of the webpage will be set to an aqua color.-->
