@@ -17,11 +17,10 @@
 </body>
 </html>
 <!--Explanation: 
-you need to open style tag after title
-You need to open style tag because without style tag we can't 
-write CSS Code 
-and you need to open div tag after the body if you couldn't open it
-doesn't work then p{ 
-color: green
-} means that paragraph text will be green or you can choose your favourite color too
+1. The <style> tag is placed after the <title> tag to include CSS (Cascading Style Sheet) 
+in the HTML document without the <style> tag, CSS code can't be added directly in the HTML File
+2.The <div> tag is opened inside the <body> tag to group and structure content.
+3.The CSS rule p { color : green; } means that all <p> (paragraph) elements will 
+have green text. You can also replace "green" with any other color you prefer.
+4) And that's it much love :d 
  -->
