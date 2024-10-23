@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        p{ 
+            color: green
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <p>Hello world</p>
+    </div>
+</body>
+</html>
+<!--Explanation: 
+you need to open style tag after title
+You need to open style tag because without style tag we can't 
+write CSS Code 
+and you need to open div tag after the body if you couldn't open it
+doesn't work then p{ 
+color: green
+} means that paragraph text will be green or you can choose your favourite color too
+ -->
